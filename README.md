@@ -1,4 +1,4 @@
-# Parch-Posey-<p><img height="10px" src="" align="left" hspace="0px" vspace="0px"></p> 
+# Parch-Posey
      
 <h1>Exploratory Analysis on Porch & Posey</h1>
 
