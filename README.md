@@ -10,7 +10,7 @@ The data is stored in databases and in different tables. Some cleaning was done 
 Analyzing the data will be done using pandas. 
 
 
-**Throuhg this analysis, we attempt to answer some question we have. Following along this analysis is not sequentional thus there is no defined order.Starting from aggregated total sales and total orders.**
+Throuhg this analysis, we attempt to answer some question we have. Following along this analysis is not sequentional thus there is no defined order.Starting from aggregated total sales and total orders.
 
 ## A- Sales and orders
 #### columns:
